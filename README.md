@@ -1,4 +1,4 @@
-https://github.com/sisyphean0labor-web/ono-tebe-nado
+https://github.com/sisyphean0labor-web/ono-tebe-nado-ad
 
 # Яндекс Практикум, 1 спринт, проект "Оно тебе надо"
 
